@@ -1,0 +1,24 @@
+{
+  "fighter": [
+    {
+      "id": 1,
+      "name": "Bilbon",
+      "weight": 180,
+      "height" : 180
+    },
+       {
+      "id": 2,
+      "name": "Gandalf",
+      "weight": 130,
+      "height" : 180
+    }
+  ],
+  "fight": [
+    {
+       "id": 1,
+      "id_fighter1": 1,
+      "id_fighter2": 2,
+      "bet" : 150
+    }
+  ]
+}
